@@ -4,6 +4,9 @@
 # Product Insights
 
 In this project we gonna find insights of two product by comparing their trends and patterns as these two products are main product claimed by the company..
+# Dashboard layout
+Power BI dashboard clearly mentioned about the choclates and pancakes.
+![Screenshot (51)](https://github.com/MoinSabri03/SQL-Prac/assets/152681629/622c937a-7de3-4e44-adb0-4105140dbeda)
 
 # Chocolates
 Product Id-USBB6
