@@ -7,7 +7,7 @@ In this project we gonna find insights of two product by comparing their trends 
 # Dashboard layout
 Power BI dashboard clearly mentioned about the comparision about choclates and pancakes.
 Adde kpi,chart,matrix and gauge charts.
-![Screenshot (51)](https://github.com/MoinSabri03/SQL-Prac/assets/152681629/622c937a-7de3-4e44-adb0-4105140dbeda)
+![Screenshot (69)](https://github.com/MoinSabri03/Reports/assets/152681629/9e9c6553-10a6-47f5-a886-6e3db1ac1027)
 
 # Chocolates
 Product Id-USBB6
